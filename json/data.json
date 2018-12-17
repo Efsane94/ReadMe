@@ -1,0 +1,95 @@
+{
+
+	"Woman":[
+			{
+				"ProductId":0,
+				"ProductName":"Esprit Ruffle Shirt",
+				"ProductPrice":"$16.64",
+				"ProductDescription":"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit ab eos iusto nemo facilis. Voluptates delectus aut aperiam numquam deleniti, omnis ab, voluptas rem suscipit ipsum accusamus impedit quas molestiae.",
+				"ProductAmount":"",
+				"ProductAdditionalInformation":"",
+				"ProductReview":"",
+				"ProductSize":[
+					"S","M","L","XL"
+				],
+				"ProductColor":[
+					"Red","Green","Blue"
+				],
+				"ProductImages":[
+					"img/product-02.jpg",
+					"img/product-03.jpg",
+					"img/product-04.jpg",
+					"img/product-05.jpg"
+				]
+			},
+			
+			{
+				"ProductId":1,
+				"ProductName":"Herschel supply",
+				"ProductPrice":"$35.31",
+				"ProductDescription":"",
+				"ProductAmount":"",
+				"ProductAdditionalInformation":"",
+				"ProductReview":"",
+				"ProductSize":[
+					"S","M","L","XL"
+				],
+				"ProductColor":[
+					"Red","Green","Blue"
+				],
+				"ProductImages":[
+					"img/product-03.jpg",
+					"img/product-02.jpg"
+				]
+			},
+			{
+				"ProductId":3,
+				"ProductName":"Only Check Trouser",
+				"ProductPrice":"$25.50",
+				"ProductDescription":"Lorem ipsum dolor sit amet, consectetur adipisicing el aliquam et cupiditate molestias animi tempore rem blanditiis pariatur aliquid laboriosam eaque delectus, ducimus quia quidem!",
+				"ProductAmount":"",
+				"ProductAdditionalInformation":"",
+				"ProductReview":"",
+				"ProductSize":[
+					"S","M","L","XL"
+				],
+				"ProductColor":[
+					"Red","Green","Blue"
+				],
+				"ProductImages":[
+					"img/product-04.jpg",
+					"img/product-02.jpg",
+					"img/product-04.jpg",
+					"img/product-03.jpg",
+					"img/product-02.jpg",
+					"img/product-04.jpg",
+					"img/product-03.jpg"
+				]
+			},
+			{
+				"ProductId":4,
+				"ProductName":"Classic Trench Coat",
+				"ProductPrice":"$75.00",
+				"ProductDescription":"",
+				"ProductAmount":"",
+				"ProductAdditionalInformation":"",
+				"ProductReview":"",
+				"ProductSize":[
+					"S","M","L","XL"
+				],
+				"ProductColor":[
+					"Red","Green","Blue"
+				],
+				"ProductImages":[
+					"img/product-03.jpg",
+					"img/product-02.jpg",
+					"img/product-04.jpg",
+					"img/product-03.jpg"
+				]
+			}
+	],
+
+	"Man":[
+
+	]
+}
